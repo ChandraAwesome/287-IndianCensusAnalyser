@@ -1,0 +1,15 @@
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\Indian_State_Census_Analyser.csproj.AssemblyReference.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\Indian_State_Census_Analyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\Indian_State_Census_Analyser.AssemblyInfoInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\Indian_State_Census_Analyser.AssemblyInfo.cs
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\Indian_State_Census_Analyser.csproj.CoreCompileInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\bin\Debug\net6.0\Indian_State_Census_Analyser.exe
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\bin\Debug\net6.0\Indian_State_Census_Analyser.deps.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\bin\Debug\net6.0\Indian_State_Census_Analyser.runtimeconfig.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\bin\Debug\net6.0\Indian_State_Census_Analyser.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\bin\Debug\net6.0\Indian_State_Census_Analyser.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\Indian_State_Census_Analyser.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\refint\Indian_State_Census_Analyser.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\Indian_State_Census_Analyser.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\Indian_State_Census_Analyser.genruntimeconfig.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\Assignments\Indian_State_Census_Analyser\obj\Debug\net6.0\ref\Indian_State_Census_Analyser.dll
