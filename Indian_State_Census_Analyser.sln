@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indian_State_Census_Analyser", "Indian_State_Census_Analyser.csproj", "{E4BE3860-456F-411D-ABF0-375A7C111121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Census_Analyser_Test", "..\Census_Analyser_Test\Census_Analyser_Test.csproj", "{3AE60FF3-4B7E-4E4B-99BE-B5F9B6548A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4BE3860-456F-411D-ABF0-375A7C111121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BE3860-456F-411D-ABF0-375A7C111121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BE3860-456F-411D-ABF0-375A7C111121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BE3860-456F-411D-ABF0-375A7C111121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE60FF3-4B7E-4E4B-99BE-B5F9B6548A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE60FF3-4B7E-4E4B-99BE-B5F9B6548A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE60FF3-4B7E-4E4B-99BE-B5F9B6548A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE60FF3-4B7E-4E4B-99BE-B5F9B6548A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F9B664-09F3-4D42-9CFF-46A1F148CFAC}
+	EndGlobalSection
+EndGlobal
